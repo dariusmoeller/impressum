@@ -1,0 +1,5 @@
+# DariusSpielt: alle Suchmaschinen duerfen alles indexieren.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dariusspielt.de/sitemap.xml
